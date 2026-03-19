@@ -18,7 +18,7 @@ entities  =  executors     physics  =  truth enforcement
 
 This is not a game engine with a theme. It is not a visualizer with gameplay bolted on.
 
-It is a **living computational substrate** — a 2D simulation engine projected onto a sphere, where every physical rule directly mirrors a real constraint in distributed systems, filesystems, and AI resource management.
+It is a **living computational substrate** — a 2D simulation engine projected 3D onto a sphere, where every physical rule directly mirrors a real constraint in distributed systems, filesystems, and AI resource management.
 
 The world's shape is the filesystem. The physics enforces trust. The entities are autonomous executors. And nothing moves for free.
 
